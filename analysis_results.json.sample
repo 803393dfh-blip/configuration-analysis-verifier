@@ -1,0 +1,18 @@
+{
+  "target_commit_sha": "0f4b0c1e2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d",
+  "commit_author": "example-author",
+  "commit_date": "2025-09-10",
+  "parameter_changes": {
+    "micro_batch_size_per_device_for_update": {
+      "before": 4,
+      "after": 2,
+      "line_number": 120
+    },
+    "micro_batch_size_per_device_for_experience": {
+      "before": 8,
+      "after": 4,
+      "line_number": 130
+    }
+  },
+  "related_issue_number_list": [101, 102]
+}
